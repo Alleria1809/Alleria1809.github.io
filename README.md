@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist :woman_technologist:	
 
 #### Technical Skills: Python, SQL, PySpark, Linux, AWS, Databricks, PyTorch, TensorFlow, MapReduce, SageMaker, Git, Neo4j, A/B Testing, ETL
 
@@ -7,24 +7,24 @@
 - B.S., Information Management and Information Systems | Beijing Foreign Studies University, Beijing, China (_Jun 2021_)
 
 ## Work Experience
-**Machine Learning Research Intern @ SylphAI Inc. (_Sep 2023 - Present_)**
+**Machine Learning Research Intern @ SylphAI Inc. (_Sep 2023 - Present_)** 	:robot:
 - Optimize SylphAI **recommendation system** matching goals and candidates leveraging **GPT-4**. Define dataset scopes, training strategies and evaluation metrics and sampled 4000 records. Build Reasoning and Rating GPT to enhance retriever and ranker. 
 - Apply Self-instruct pipeline with prompt engineering to generate data, reducing manual cost by 50%. Creatively boost retriever efficiency using knowledge distillation. Tune instructions and increase model accuracy by 15%.
 
 
-**Data Scientist Intern @ Adobe Inc. (_May 2023 – Aug 2023_)**
+**Data Scientist Intern @ Adobe Inc. (_May 2023 – Aug 2023_)** :chart_with_upwards_trend:
 - Evaluated the success of a product recommendation strategy by calculating pre-launch and post-launch conversion, cancellation, engagement, retention, and customer LTV metrics. Designed visualizations on 1M+ records to identify products with negative incremental profits (Matplotlib & Plotly). Drove collaboration with cross-functional teams.
 - Optimized product strategy using **Regression models with feature preprocessing** to find significant factors leading to cancellation. Clustered customers to identify cohorts canceling subscriptions and applied detected patterns to improve retention by 13%. Manipulated data on Databricks with complex **SQL** queries and **Python**.
 - Utilized **NLP** to identify cancellation reasons, applying spaCy to understand product problems to enhance user journey.
 - Packaged insights and leveraged data storytelling to deliver recommendations to senior leaders and stakeholders. Predicted a 10% conversion rate improvement and an up to $8.3M annual recurring revenue (ARR) Lift per quarter.
 - 
 
-**Data Scientist & Machine Learning Research Intern @ HireBeat Inc. (_May 2022 – Jul 2022_)**
+**Data Scientist & Machine Learning Research Intern @ HireBeat Inc. (_May 2022 – Jul 2022_)** :bar_chart:
 - Led a project establishing **data metrics dashboard** and devised a UI connected with **PostgreSQL (Python & Streamlit)**, empowering users to interact with backend database using filters and reducing manual costs by 30%.
 - Developed an **end-to-end pipeline** for classifying resumes into multiple job categories. Vectorized text features with TF-IDF, constructed SVM and Neural Networks models, performed hyper-parameter tuning and boosted accuracy by 15% compared with KNN (baseline). Deployed these models to recommend targeted job categories and improved users’ job application process and satisfaction. Performed clustering analysis to compare premium and free trial account features for marketing promotion.
 
 
-**Data Analyst Intern @ Beijing Qingbo Big Data Technology Co., Ltd. (_Jun 2021 – Sep 2021_)**
+**Data Analyst Intern @ Beijing Qingbo Big Data Technology Co., Ltd. (_Jun 2021 – Sep 2021_)** :mag_right:
 - Leveraged **Selenium/Scrapy crawlers** to acquire 5K+ posts from social media platforms with hot issue keywords, applied text mining and pre-trained models from Hugging Face for sentiment and statistical analysis and visualized results.
 
 
@@ -50,4 +50,5 @@
 - **Deployed web application** with Knowledge Graph to facilitate job search and visualize matched skills in resumes and users’ ideal positions. Utilized similarity metrics to recommend jobs and suggest skills for users to improve.
 ![KG APP](img/kg.jpeg)
 
-## Hobbies: Data Science, Detective Fiction, DOTA2
+## Hobbies: 
+Data Science, Detective Fiction(Agatha Christie) :detective:, DOTA2
