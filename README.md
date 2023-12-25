@@ -51,4 +51,4 @@
 ![KG APP](img/kg.jpeg)
 
 ## Hobbies: 
-Data Science, Detective Fiction(Agatha Christie) :detective:, DOTA2
+Data Science, Detective Fiction(Agatha Christie), DOTA2
