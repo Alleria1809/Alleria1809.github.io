@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Machine Learning Research Intern @ SylphAI Inc. (_Sep 2023 - Present_)**
-![SylphAI](img/sylphai.jpg)
+<img src="img/sylphai.jpg" width=50% height=50%>
 - Optimize SylphAI **recommendation system** matching goals and candidates leveraging **GPT-4**. Define dataset scopes, training strategies and evaluation metrics and sampled 4000 records. Build Reasoning and Rating GPT to enhance retriever and ranker. 
 - Apply Self-instruct pipeline with prompt engineering to generate data, reducing manual cost by 50%. Creatively boost retriever efficiency using knowledge distillation. Tune instructions and increase model accuracy by 15%.
 
