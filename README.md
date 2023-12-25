@@ -1,4 +1,4 @@
-# Portfolio
+# Data Scientist
 
 #### Technical Skills: Python, SQL, PySpark, Linux, AWS, Databricks, PyTorch, TensorFlow, MapReduce, SageMaker, Git, Neo4j, A/B Testing, ETL
 
