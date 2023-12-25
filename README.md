@@ -13,7 +13,7 @@
 - Apply Self-instruct pipeline with prompt engineering to generate data, reducing manual cost by 50%. Creatively boost retriever efficiency using knowledge distillation. Tune instructions and increase model accuracy by 15%.
 
 **Data Scientist Intern @ Adobe Inc. (_May 2023 – Aug 2023_)**
-![Adobe](img/adobe.jpg)
+<img src="img/adobe" width=50% height=50%>
 - Evaluated the success of a product recommendation strategy by calculating pre-launch and post-launch conversion, cancellation, engagement, retention, and customer LTV metrics. Designed visualizations on 1M+ records to identify products with negative incremental profits (Matplotlib & Plotly). Drove collaboration with cross-functional teams.
 - Optimized product strategy using **Regression models with feature preprocessing** to find significant factors leading to cancellation. Clustered customers to identify cohorts canceling subscriptions and applied detected patterns to improve retention by 13%. Manipulated data on Databricks with complex **SQL** queries and **Python**.
 - Utilized **NLP** to identify cancellation reasons, applying spaCy to understand product problems to enhance user journey.
