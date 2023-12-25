@@ -37,12 +37,13 @@
 - Led a team as the Project Manager. Developed a system identifying risky restaurants collaborating closely with stakeholders using Agile. Crawled 9K+ restaurants from Yelp, and applied Record Linkage to integrate Yelp records with LA Open Data.
 - Established risk predicting models (SVM/Random Forest/XGBoost) with 84% accuracy and 0.7 roc_auc, applied clustering models (PCA/KMeans) and topic modeling to find insights from restaurant groups and Yelp reviews.
 - Designed a content-based restaurant recommender. Explored a weighted model with Collaborative Filtering and XGBoost and researched Graph embedding for recommendation on the Yelp dataset with 0.977 RMSE.
-
+![LA restaurant APP](img/la_res.jpeg)
 
 ### Job Recommendation System Based on Knowledge Graph
 [Video](https://www.youtube.com/watch?v=EczX-wm0GMc)
 
 - Extracted required skills and diplomas from 10K+ job descriptions with spaCy and fine-tuned BERT models (F1 score 0.66/0.88), applied entity resolution to establish a knowledge graph connected with Neo4j. Applied TF-IDF to vectorize features and constructed job category classifiers to classify each job into 15 categories.
 - Deployed web application with Knowledge Graph to facilitate job search and visualize matched skills in resumes and users’ ideal positions. Utilized similarity metrics to recommend jobs and suggest skills for users to improve.
+![KG APP](img/kg.jpeg)
 
 ## Hobbies: Data Science, Detective Fiction, DOTA2
