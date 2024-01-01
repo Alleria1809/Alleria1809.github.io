@@ -1,11 +1,13 @@
 # Data Scientist | Software Engineer
 
-#### About Me
+## About Me
 I'm Xiaoyi Gu, attracted by Machine Learning when I was a sophomore in a Data Mining course, I am fighting my way to start a career in this area. Using the known to explore the unknown, like panning for gold in the sand, I believe, is part of data science's charm. Also, I'm always hoping to perceive another form of the world through modern computer technology. To build my own knowledge kingdom of technology, I will always explore opportunities and never stop learning.
 In my internships and coursework, I gained experience in **Recommendation Systems, Machine Learning, Application Development, LLMs, Product Analytics, NLP, Knowledge Graph** and so on. When successfully implementing an app with my ideas, mining patterns that empower the business and delivering insights to professionals or non-professionals, I have a sense of achievement. This is my life motivation. 
+<p align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Alleria1809/Alleria1809.github.io/main/img/skillsets.jpeg">
+</p>
 
-
-#### Technical Skills: 
+## Technical Skills: 
 - **Data Science:** Python, Numpy, Pandas, Matplotlib, SQL, Seaborn, Plotly, SciPy, StatsModels, Spark, A/B Testing, ETL, Notebook
 - **Machine Learning:** Scikit-learn, PyTorch, PySpark, TensorFlow, SageMaker, Neo4j, spaCy, Git
 - **Software Development:** Python, Flask, SQL, Linux, AWS, Databricks, MapReduce, Git, Streamlit, Fullstack development
@@ -58,6 +60,7 @@ In my internships and coursework, I gained experience in **Recommendation System
 - Extracted required skills and diplomas from 10K+ job descriptions with spaCy and fine-tuned BERT models (F1 score 0.66/0.88), applied **entity resolution** to establish a knowledge graph connected with Neo4j. Applied TF-IDF to vectorize features and constructed job category classifiers to classify each job into 15 categories.
 - **Deployed web application** with Knowledge Graph to facilitate job search and visualize matched skills in resumes and users’ ideal positions. Utilized similarity metrics to recommend jobs and suggest skills for users to improve.
 ![KG APP](img/kg.jpeg)
+
 
 ## Hobbies: 
 Data Science, Detective Fiction(Agatha Christie), DOTA2
