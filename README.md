@@ -1,21 +1,19 @@
 # Data Scientist | Software Engineer
 
-## About Me
-I'm Xiaoyi Gu, attracted by Machine Learning when I was a sophomore in a Data Mining course, I am fighting my way to start a career in this area. Using the known to explore the unknown, like panning for gold in the sand, I believe, is part of data science's charm. Also, I'm always hoping to perceive another form of the world through modern computer technology. To build my own knowledge kingdom of technology, I will always explore opportunities and never stop learning.
-In my internships and coursework, I gained experience in **Recommendation Systems, Machine Learning, Application Development, LLMs, Product Analytics, NLP, Knowledge Graph** and so on. When successfully implementing an app with my ideas, mining patterns that empower the business and delivering insights to professionals or non-professionals, I have a sense of achievement. This is my life motivation. 
-<p align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Alleria1809/Alleria1809.github.io/main/img/skillsets.jpeg">
-</p>
+## Education
+- M.S., Applied Data Science | University of Southern California, Los Angeles, CA, U.S. (_Dec 2023_)					  
+- B.S., Information Management and Information Systems | Beijing Foreign Studies University, Beijing, China (_Jun 2021_)
+
+## Areas
+Recommendation Systems, Machine Learning, Application Development, LLMs, Product Analytics, NLP, Knowledge Graph
 
 ## Technical Skills: 
 - **Data Science:** Python, Numpy, Pandas, Matplotlib, SQL, Seaborn, Plotly, SciPy, StatsModels, Spark, A/B Testing, ETL, Notebook
 - **Machine Learning:** Scikit-learn, PyTorch, PySpark, TensorFlow, SageMaker, Neo4j, spaCy, Git
 - **Software Development:** Python, Flask, SQL, Linux, AWS, Databricks, MapReduce, Git, Streamlit, Fullstack development
-
-
-## Education
-- M.S., Applied Data Science | University of Southern California, Los Angeles, CA, U.S. (_Dec 2023_)					  
-- B.S., Information Management and Information Systems | Beijing Foreign Studies University, Beijing, China (_Jun 2021_)
+<p align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Alleria1809/Alleria1809.github.io/main/img/skillsets.jpeg">
+</p>
 
 ## Work Experience
 **Machine Learning Research Intern @ SylphAI Inc. (_Sep 2023 - Present_)**
