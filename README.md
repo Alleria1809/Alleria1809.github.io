@@ -1,6 +1,15 @@
-# Data Scientist
+# Data Scientist | Software Engineer
 
-#### Technical Skills: Python, SQL, PySpark, Linux, AWS, Databricks, PyTorch, TensorFlow, MapReduce, SageMaker, Git, Neo4j, A/B Testing, ETL
+#### About Me
+I'm Xiaoyi Gu, attracted by Machine Learning when I was a sophomore in a Data Mining course, I am fighting my way to start a career in this area. Using the known to explore the unknown, like panning for gold in the sand, I believe, is part of data science's charm. Also, I'm always hoping to perceive another form of the world through modern computer technology. To build my own knowledge kingdom of technology, I will always explore opportunities and never stop learning.
+In my internships and coursework, I gained experience in **Recommendation Systems, Machine Learning, Application Development, LLMs, Product Analytics, NLP, Knowledge Graph** and so on. When successfully implementing an app with my ideas, mining patterns that empower the business and delivering insights to professionals or non-professionals, I have a sense of achievement. This is my life motivation. 
+
+
+#### Technical Skills: 
+- **Data Science:** Python, Numpy, Pandas, Matplotlib, SQL, Seaborn, Plotly, SciPy, StatsModels, Spark, A/B Testing, ETL, Notebook
+- **Machine Learning:** Scikit-learn, PyTorch, PySpark, TensorFlow, SageMaker, Neo4j, spaCy, Git
+- **Software Development:** Python, Flask, SQL, Linux, AWS, Databricks, MapReduce, Git, Streamlit, Fullstack development
+
 
 ## Education
 - M.S., Applied Data Science | University of Southern California, Los Angeles, CA, U.S. (_Dec 2023_)					  
@@ -8,8 +17,8 @@
 
 ## Work Experience
 **Machine Learning Research Intern @ SylphAI Inc. (_Sep 2023 - Present_)**
-- Optimize SylphAI **recommendation system** matching goals and candidates leveraging **GPT-4**. Define dataset scopes, training strategies and evaluation metrics and sampled 4000 records. Build Reasoning and Rating GPT to enhance retriever and ranker. 
-- Apply Self-instruct pipeline with prompt engineering to generate data, reducing manual cost by 50%. Creatively boost retriever efficiency using knowledge distillation. Tune instructions and increase model accuracy by 15%.
+- Enhanced SylphAI's **recommendation system** by leveraging the power of **OpenAI’s GPT-4** to precisely match candidate goals. Defined dataset scopes, training strategies and evaluation metrics and sampled 4000 records. Built reasoning and rating GPT to enhance retriever and ranker. Designed an end-to-end evaluation for the new system.
+- Implemented a self-instruct pipeline with prompt engineering to automate data generation, resulting in a 50% reduction in manual labor costs. Creatively boosted retriever efficiency using knowledge distillation. Increased model accuracy by 15% using instruction tuning. Created the relational database with constraints for the product.
 
 
 **Data Scientist Intern @ Adobe Inc. (_May 2023 – Aug 2023_)**
@@ -17,7 +26,7 @@
 - Optimized product strategy using **Regression models with feature preprocessing** to find significant factors leading to cancellation. Clustered customers to identify cohorts canceling subscriptions and applied detected patterns to improve retention by 13%. Manipulated data on Databricks with complex **SQL** queries and **Python**.
 - Utilized **NLP** to identify cancellation reasons, applying spaCy to understand product problems to enhance user journey.
 - Packaged insights and leveraged data storytelling to deliver recommendations to senior leaders and stakeholders. Predicted a 10% conversion rate improvement and an up to $8.3M annual recurring revenue (ARR) Lift per quarter.
-- 
+
 
 **Data Scientist & Machine Learning Research Intern @ HireBeat Inc. (_May 2022 – Jul 2022_)**
 - Led a project establishing **data metrics dashboard** and devised a UI connected with **PostgreSQL (Python & Streamlit)**, empowering users to interact with backend database using filters and reducing manual costs by 30%.
