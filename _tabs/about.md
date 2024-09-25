@@ -28,10 +28,14 @@ I'm an incoming **Applied Scientist** at **Twitch**, specializing in developing 
 
 ## Hobbies & Interests
 👩‍🎓: I love to apply AI/ML/DL/LLM to real-world projects and explore latest scientific content.
+
 🕵️‍♀️: I enjoy reading Agatha Christine's detective stories.
+
 🐈: I adopted Luna, a female gray&white domestic shorthair in April, 2024.
-![Luna](/assets/images/luna.jpg)
+![Luna](/assets/img/luna.jpg)
+
 🎮: I'm a fan of a video game called DOTA2.
+![DOTA2](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg)
 
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
