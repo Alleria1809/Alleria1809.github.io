@@ -16,10 +16,10 @@ timezone:
 
 title: Xiaoyi (Alleria) Gu # the main title
 
-tagline: Recommender/Search Scientist | LLM/ML/DL Engineer # it will display as the subtitle
+tagline: Recommendation/Search System Applied Scientist | LLM/ML/DL Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A Recommender/Search Applied Scientist, experienced in Large Language Models(LLMs), machine learning, deep learning and data science.
+  A Recommender/Search Applied Scientist, experienced in Large Language Models(LLMs), NLP, machine learning, deep learning and data science.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
