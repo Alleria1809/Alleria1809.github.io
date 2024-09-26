@@ -10,7 +10,7 @@ title: About Me
 I'm an incoming **Applied Scientist** at **Twitch**, specializing in developing live stream **Recommendation Systems** using **ML/DL/NLP**.
 
 ## My Career Path:
-- **High School Graduation**: Interpreter
+- **High School Graduation**: English Interpreter
 - **Undergraduate**: Business Analyst inspired by my professor, Dr. Zhang
 - **Master's Degree**: Data Scientist/Machine Learning/NLP
 - **Master's Graduation**: Recommendation/Search/LLM
