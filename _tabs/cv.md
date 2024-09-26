@@ -9,10 +9,9 @@ permalink: /cv/
 ## Xiaoyi (Alleria) Gu's CV
 
 ## EDUCATION
-- M.S., Applied Data Science | University of Southern California, Los Angeles, CA, U.S. (_Dec 2023_)					  
-- B.S., Information Management and Information Systems | Beijing Foreign Studies University, Beijing, China (_Jun 2021_)
-
-*Awards: National Scholarship (top 0.2%), Merit Student, Beijing Outstanding Graduates*
+- **M.S., Applied Data Science** | University of Southern California, Los Angeles, CA, U.S. (_Dec 2023_)					  
+- **B.S., Information Management and Information Systems** | Beijing Foreign Studies University, Beijing, China (_Jun 2021_)
+    - **Awards**: National Scholarship (top 0.2%), Merit Student, Beijing Outstanding Graduates
 
 ## PROFESSIONAL EXPERIENCE
 **Machine Learning Engineer (Generative AI, Search Engineering, RAG) @ SylphAI Inc. (_Apr 2024 - Aug 2024_)**
@@ -30,7 +29,7 @@ permalink: /cv/
 - Led a project to preprocess candidates’ resumes by extracting key qualifications, and vectorized text features with **TF-IDF**.
 - Implemented an end-to-end pipeline for classifying resumes by ensembling **Neural Networks, Tree-Based models, Naive Bayes**, and **SVM** with tuned hyperparameters, boosting accuracy by 15% compared to the KNN baseline.
 
-## Projects
+## PROJECTS
 ### Los Angeles Restaurant Heath Inspection and Recommendation
 [Video](https://www.youtube.com/watch?v=oiM0AO_HvLQ)
 - Led a team as the **Project Manager**. Developed a system identifying risky restaurants collaborating closely with stakeholders using **Agile**. Crawled 9K+ restaurants from Yelp, and applied Record Linkage to integrate Yelp records with LA Open Data.
